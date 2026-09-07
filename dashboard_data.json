@@ -1,0 +1,44 @@
+{
+  "total_samples": 240,
+  "total_exceedances": 17,
+  "by_station": {
+    "Station-North-1": {
+      "total": 60,
+      "exceedances": 7
+    },
+    "Station-North-2": {
+      "total": 60,
+      "exceedances": 2
+    },
+    "Station-East-1": {
+      "total": 60,
+      "exceedances": 3
+    },
+    "Station-South-1": {
+      "total": 60,
+      "exceedances": 5
+    }
+  },
+  "by_parameter": {
+    "Dissolved Arsenic": {
+      "total": 48,
+      "exceedances": 6
+    },
+    "pH": {
+      "total": 48,
+      "exceedances": 5
+    },
+    "Dissolved Lead": {
+      "total": 48,
+      "exceedances": 0
+    },
+    "Dissolved Copper": {
+      "total": 48,
+      "exceedances": 3
+    },
+    "Turbidity": {
+      "total": 48,
+      "exceedances": 3
+    }
+  }
+}

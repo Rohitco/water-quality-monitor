@@ -1,0 +1,145 @@
+source,station,parameter,sample_date,value
+LabB,Station-North-1,pH,2026-01-05,7.033
+LabB,Station-North-1,Dissolved Copper,2026-01-05,0.268
+LabB,Station-North-1,Dissolved Lead,2026-01-05,0.387
+LabB,Station-North-1,Turbidity,2026-01-05,14.382
+LabB,Station-North-2,Dissolved Arsenic,2026-01-05,0
+LabB,Station-North-2,Dissolved Copper,2026-01-05,0.598
+LabB,Station-North-2,Turbidity,2026-01-05,12.668
+LabB,Station-East-1,pH,2026-01-05,15.389
+LabB,Station-East-1,Dissolved Lead,2026-01-05,0.449
+LabB,Station-South-1,pH,2026-01-05,7.096
+LabB,Station-South-1,Dissolved Copper,2026-01-05,0.423
+LabB,Station-South-1,Dissolved Lead,2026-01-05,0.783
+LabB,Station-North-1,pH,2026-01-12,16.349
+LabB,Station-North-1,Dissolved Copper,2026-01-12,1.025
+LabB,Station-North-1,Dissolved Lead,2026-01-12,0.238
+LabB,Station-North-1,Turbidity,2026-01-12,12.744
+LabB,Station-North-2,Dissolved Arsenic,2026-01-12,10.496
+LabB,Station-North-2,Dissolved Copper,2026-01-12,0.75
+LabB,Station-North-2,Turbidity,2026-01-12,18.957
+LabB,Station-East-1,pH,2026-01-12,7.408
+LabB,Station-East-1,Dissolved Lead,2026-01-12,0.45
+LabB,Station-South-1,pH,2026-01-12,7.351
+LabB,Station-South-1,Dissolved Copper,2026-01-12,3.736
+LabB,Station-South-1,Dissolved Lead,2026-01-12,0.261
+LabB,Station-North-1,pH,2026-01-19,16.857
+LabB,Station-North-1,Dissolved Copper,2026-01-19,0.764
+LabB,Station-North-1,Dissolved Lead,2026-01-19,0.744
+LabB,Station-North-1,Turbidity,2026-01-19,11.557
+LabB,Station-North-2,Dissolved Arsenic,2026-01-19,1.225
+LabB,Station-North-2,Dissolved Copper,2026-01-19,0.571
+LabB,Station-North-2,Turbidity,2026-01-19,10.534
+LabB,Station-East-1,pH,2026-01-19,7.772
+LabB,Station-East-1,Dissolved Lead,2026-01-19,0.705
+LabB,Station-South-1,pH,2026-01-19,7.209
+LabB,Station-South-1,Dissolved Copper,2026-01-19,0.868
+LabB,Station-South-1,Dissolved Lead,2026-01-19,0.357
+LabB,Station-North-1,pH,2026-01-26,7.35
+LabB,Station-North-1,Dissolved Copper,2026-01-26,0.223
+LabB,Station-North-1,Dissolved Lead,2026-01-26,0.963
+LabB,Station-North-1,Turbidity,2026-01-26,34.568
+LabB,Station-North-2,Dissolved Arsenic,2026-01-26,2.002
+LabB,Station-North-2,Dissolved Copper,2026-01-26,0.924
+LabB,Station-North-2,Turbidity,2026-01-26,9.704
+LabB,Station-East-1,pH,2026-01-26,7.163
+LabB,Station-East-1,Dissolved Lead,2026-01-26,0.157
+LabB,Station-South-1,pH,2026-01-26,16.44
+LabB,Station-South-1,Dissolved Copper,2026-01-26,1.582
+LabB,Station-South-1,Dissolved Lead,2026-01-26,0.359
+LabB,Station-North-1,pH,2026-02-02,7.93
+LabB,Station-North-1,Dissolved Copper,2026-02-02,1.458
+LabB,Station-North-1,Dissolved Lead,2026-02-02,0.164
+LabB,Station-North-1,Turbidity,2026-02-02,13.412
+LabB,Station-North-2,Dissolved Arsenic,2026-02-02,2.837
+LabB,Station-North-2,Dissolved Copper,2026-02-02,1.478
+LabB,Station-North-2,Turbidity,2026-02-02,5.574
+LabB,Station-East-1,pH,2026-02-02,7.118
+LabB,Station-East-1,Dissolved Lead,2026-02-02,0.45
+LabB,Station-South-1,pH,2026-02-02,7.067
+LabB,Station-South-1,Dissolved Copper,2026-02-02,0.86
+LabB,Station-South-1,Dissolved Lead,2026-02-02,0.436
+LabB,Station-North-1,pH,2026-02-09,6.809
+LabB,Station-North-1,Dissolved Copper,2026-02-09,0.935
+LabB,Station-North-1,Dissolved Lead,2026-02-09,0.601
+LabB,Station-North-1,Turbidity,2026-02-09,12.877
+LabB,Station-North-2,Dissolved Arsenic,2026-02-09,2.768
+LabB,Station-North-2,Dissolved Copper,2026-02-09,1.154
+LabB,Station-North-2,Turbidity,2026-02-09,0.498
+LabB,Station-East-1,pH,2026-02-09,7.171
+LabB,Station-East-1,Dissolved Lead,2026-02-09,0.234
+LabB,Station-South-1,pH,2026-02-09,7.363
+LabB,Station-South-1,Dissolved Copper,2026-02-09,0.423
+LabB,Station-South-1,Dissolved Lead,2026-02-09,0.248
+LabB,Station-North-1,pH,2026-02-16,7.589
+LabB,Station-North-1,Dissolved Copper,2026-02-16,2.494
+LabB,Station-North-1,Dissolved Lead,2026-02-16,0
+LabB,Station-North-1,Turbidity,2026-02-16,5.921
+LabB,Station-North-2,Dissolved Arsenic,2026-02-16,2.355
+LabB,Station-North-2,Dissolved Copper,2026-02-16,3.448
+LabB,Station-North-2,Turbidity,2026-02-16,9.764
+LabB,Station-East-1,pH,2026-02-16,6.696
+LabB,Station-East-1,Dissolved Lead,2026-02-16,0.727
+LabB,Station-South-1,pH,2026-02-16,7.738
+LabB,Station-South-1,Dissolved Copper,2026-02-16,1.59
+LabB,Station-South-1,Dissolved Lead,2026-02-16,0.659
+LabB,Station-North-1,pH,2026-02-23,7.282
+LabB,Station-North-1,Dissolved Copper,2026-02-23,0.4
+LabB,Station-North-1,Dissolved Lead,2026-02-23,0.153
+LabB,Station-North-1,Turbidity,2026-02-23,20.927
+LabB,Station-North-2,Dissolved Arsenic,2026-02-23,1.061
+LabB,Station-North-2,Dissolved Copper,2026-02-23,1.593
+LabB,Station-North-2,Turbidity,2026-02-23,12.144
+LabB,Station-East-1,pH,2026-02-23,7.328
+LabB,Station-East-1,Dissolved Lead,2026-02-23,0.56
+LabB,Station-South-1,pH,2026-02-23,7.691
+LabB,Station-South-1,Dissolved Copper,2026-02-23,0
+LabB,Station-South-1,Dissolved Lead,2026-02-23,0.521
+LabB,Station-North-1,pH,2026-03-02,7.343
+LabB,Station-North-1,Dissolved Copper,2026-03-02,0.479
+LabB,Station-North-1,Dissolved Lead,2026-03-02,0.336
+LabB,Station-North-1,Turbidity,2026-03-02,12.217
+LabB,Station-North-2,Dissolved Arsenic,2026-03-02,0.711
+LabB,Station-North-2,Dissolved Copper,2026-03-02,0.721
+LabB,Station-North-2,Turbidity,2026-03-02,9.891
+LabB,Station-East-1,pH,2026-03-02,6.963
+LabB,Station-East-1,Dissolved Lead,2026-03-02,0.331
+LabB,Station-South-1,pH,2026-03-02,7.218
+LabB,Station-South-1,Dissolved Copper,2026-03-02,1.105
+LabB,Station-South-1,Dissolved Lead,2026-03-02,0.227
+LabB,Station-North-1,pH,2026-03-09,7.541
+LabB,Station-North-1,Dissolved Copper,2026-03-09,0.835
+LabB,Station-North-1,Dissolved Lead,2026-03-09,0.426
+LabB,Station-North-1,Turbidity,2026-03-09,10.163
+LabB,Station-North-2,Dissolved Arsenic,2026-03-09,2.835
+LabB,Station-North-2,Dissolved Copper,2026-03-09,0.352
+LabB,Station-North-2,Turbidity,2026-03-09,9.401
+LabB,Station-East-1,pH,2026-03-09,7.122
+LabB,Station-East-1,Dissolved Lead,2026-03-09,0.537
+LabB,Station-South-1,pH,2026-03-09,7.903
+LabB,Station-South-1,Dissolved Copper,2026-03-09,1.294
+LabB,Station-South-1,Dissolved Lead,2026-03-09,0.931
+LabB,Station-North-1,pH,2026-03-16,7.653
+LabB,Station-North-1,Dissolved Copper,2026-03-16,0.198
+LabB,Station-North-1,Dissolved Lead,2026-03-16,0.316
+LabB,Station-North-1,Turbidity,2026-03-16,10.543
+LabB,Station-North-2,Dissolved Arsenic,2026-03-16,2.408
+LabB,Station-North-2,Dissolved Copper,2026-03-16,0.458
+LabB,Station-North-2,Turbidity,2026-03-16,22.061
+LabB,Station-East-1,pH,2026-03-16,7.334
+LabB,Station-East-1,Dissolved Lead,2026-03-16,0.597
+LabB,Station-South-1,pH,2026-03-16,14.585
+LabB,Station-South-1,Dissolved Copper,2026-03-16,1.252
+LabB,Station-South-1,Dissolved Lead,2026-03-16,0.164
+LabB,Station-North-1,pH,2026-03-23,7.865
+LabB,Station-North-1,Dissolved Copper,2026-03-23,0.171
+LabB,Station-North-1,Dissolved Lead,2026-03-23,0.494
+LabB,Station-North-1,Turbidity,2026-03-23,27.366
+LabB,Station-North-2,Dissolved Arsenic,2026-03-23,1.442
+LabB,Station-North-2,Dissolved Copper,2026-03-23,0.038
+LabB,Station-North-2,Turbidity,2026-03-23,7.224
+LabB,Station-East-1,pH,2026-03-23,7.366
+LabB,Station-East-1,Dissolved Lead,2026-03-23,0.213
+LabB,Station-South-1,pH,2026-03-23,6.918
+LabB,Station-South-1,Dissolved Copper,2026-03-23,0.649
+LabB,Station-South-1,Dissolved Lead,2026-03-23,0.587
