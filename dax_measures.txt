@@ -1,0 +1,73 @@
+DAX Measures — for import into Power BI Desktop against the exported star
+schema (fact_samples, dim_station, dim_parameter, dim_date).
+
+NOTE: These are hand-written, valid DAX formulas provided as reference —
+they have NOT been executed against a live Power BI/Analysis Services engine
+in this environment, since Power BI Desktop isn't available here. Load
+output/star_schema/*.csv into Power BI, build relationships (fact_samples[station_id]
+-> dim_station[station_id], etc.), then paste these in as new measures.
+
+--------------------------------------------------------------------------
+
+Total Samples =
+COUNTROWS ( fact_samples )
+
+--------------------------------------------------------------------------
+
+Total Exceedances =
+CALCULATE (
+    COUNTROWS ( fact_samples ),
+    fact_samples[is_exceedance] = 1
+)
+
+--------------------------------------------------------------------------
+
+Exceedance Rate % =
+DIVIDE ( [Total Exceedances], [Total Samples], 0 )
+
+--------------------------------------------------------------------------
+
+Average Parameter Value =
+AVERAGE ( fact_samples[value] )
+
+--------------------------------------------------------------------------
+
+Exceedance Rate by Station =
+CALCULATE (
+    [Exceedance Rate %],
+    ALLEXCEPT ( fact_samples, dim_station )
+)
+
+--------------------------------------------------------------------------
+
+Exceedance Rate by Parameter =
+CALCULATE (
+    [Exceedance Rate %],
+    ALLEXCEPT ( fact_samples, dim_parameter )
+)
+
+--------------------------------------------------------------------------
+
+Rolling 4-Week Exceedance Rate =
+VAR CurrentWeek = MAX ( dim_date[week_of_year] )
+RETURN
+CALCULATE (
+    [Exceedance Rate %],
+    FILTER (
+        ALL ( dim_date ),
+        dim_date[week_of_year] > CurrentWeek - 4
+            && dim_date[week_of_year] <= CurrentWeek
+    )
+)
+
+--------------------------------------------------------------------------
+
+Week-over-Week Exceedance Change =
+VAR CurrentRate = [Exceedance Rate %]
+VAR PriorWeekRate =
+    CALCULATE (
+        [Exceedance Rate %],
+        DATEADD ( dim_date[date], -7, DAY )
+    )
+RETURN
+CurrentRate - PriorWeekRate
